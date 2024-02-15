@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&family=Turret+Road:wght@300&display=swap');
+
+
+body {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    font-family: 'Major Mono Display', monospace;
+    font-weight: 1000;
+   
+
+}
+
+h2{
+    font-family: 'Major Mono Display', monospace;
+}
+
+a {
+    text-decoration: none;
+    color: #B654F4;
+    font-family: 'Turret Road', sans-serif;
+}
+
+a:hover {
+    background-color: black;
+    color: #D9524E;
+  }
+
+ 
+
